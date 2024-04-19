@@ -8,6 +8,8 @@ _Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web 
 
 This application was made to create a SVG logo from your command line. This app gives you options to chose between 3 different shapes, along with an array of colors and texts to finish logo. Also, this app has a testing options to help assure everything is running smoothly.
 
+![Screenshot 2024-04-19 133238](https://github.com/EGARRISXN/svg-maker/assets/126130230/e5e7fa9d-8844-4f7e-a7a2-013a780fa8e8)
+
 ## Technologies
 
 - **Javascript**
