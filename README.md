@@ -10,6 +10,12 @@ This application was made to create a SVG logo from your command line. This app 
 
 ![Screenshot 2024-04-19 133238](https://github.com/EGARRISXN/svg-maker/assets/126130230/e5e7fa9d-8844-4f7e-a7a2-013a780fa8e8)
 
+![circle](https://github.com/EGARRISXN/svg-maker/assets/126130230/4a4459db-1705-4237-805a-792b91bf70a4)
+![square](https://github.com/EGARRISXN/svg-maker/assets/126130230/653ee6e6-921d-4045-a358-2d6b7f32e708)
+![triangle](https://github.com/EGARRISXN/svg-maker/assets/126130230/2c6981eb-f579-46b4-b02e-fdc1f3c6e100)
+
+
+
 ## Technologies
 
 - **Javascript**
