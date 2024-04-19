@@ -38,6 +38,4 @@ This project is licensed under the [MIT license](https://opensource.org/licenses
 
 ## Questions
 
-[Link to Github](https://github.com/egarrisxn)
-
 Feel free to reach out to me here on [GitHub](https://github.com/EGARRISXN), or directly via email at egarrisxn@gmail.com if you have any questions.
