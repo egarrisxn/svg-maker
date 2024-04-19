@@ -1,0 +1,27 @@
+{
+  "name": "svg-maker",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A basic SVG maker straight from the command line.",
+  "main": "index.js",
+  "author": "Ethan Garrison",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "svg",
+    "svg-maker",
+    "jest",
+    "inquirer"
+  ],
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
