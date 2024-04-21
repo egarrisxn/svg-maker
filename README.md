@@ -18,6 +18,7 @@ This application was made to create a SVG logo from your command line. This app 
 
 ## Technologies
 
+- **Node.js**
 - **Javascript**
 - **Inquirer.js**
 - **Jest**
