@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-_Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web Development Bootcamp._
+_Initially created in the sping of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
 ## Description
 
@@ -14,7 +14,15 @@ This application was made to create a SVG logo from your command line. This app 
 ![square](https://github.com/EGARRISXN/svg-maker/assets/126130230/653ee6e6-921d-4045-a358-2d6b7f32e708)
 ![triangle](https://github.com/EGARRISXN/svg-maker/assets/126130230/2c6981eb-f579-46b4-b02e-fdc1f3c6e100)
 
+## Table of Contents
 
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+- [Questions](#questions)
 
 ## Technologies
 
@@ -45,4 +53,4 @@ This project is licensed under the [MIT license](https://opensource.org/licenses
 
 ## Questions
 
-Feel free to reach out to me here on [GitHub](https://github.com/EGARRISXN), or directly via email at egarrisxn@gmail.com if you have any questions.
+Feel free to reach out to me via [GitHub](https://github.com/EGARRISXN), or directly via email at egarrisxn@gmail.com.
