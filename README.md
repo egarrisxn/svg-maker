@@ -26,22 +26,25 @@ This application was made to create a SVG logo from your command line. This app 
 
 ## Technologies
 
-- **Node.js**
-- **Javascript**
-- **Inquirer.js**
-- **Jest**
+- Node.js
+- Javascript
+- Inquirer
+- Jest
 
 ## Installation
 
-Depending on your package manager, you may clone this repository and run `npm install`, `pnpm install`, or possibly `yarn install` to get started.
+1. Clone this repository to your local machine.
+2. Select & download your package manager: [npm](https://www.npmjs.com/), [pnpm](https://pnpm.io/), or [yarn](https://yarnpkg.com/).
+3. Inside your terminal, run `npm install`, `pnpm install`, or `yarn install`.
 
 ## Usage
 
-Run `node index.js` into your terminal and begin the SVG shenanigans..it's that simple!
+4. While inside your terminal, run `node index.js`.
+5. Let the SVG fun begin!
 
 ## Tests
 
-Run `npm test` into your terminal to run tests.
+Navigate to your terminal and run `npm test`, `pnpm test`, or `yarn test`.
 
 ## Acknowledgements
 
@@ -53,4 +56,4 @@ This project is licensed under the [MIT license](https://opensource.org/licenses
 
 ## Questions
 
-Feel free to reach out to me via [GitHub](https://github.com/EGARRISXN), or directly via email at egarrisxn@gmail.com.
+Questions? Comments? Concerns? Reach out to me via GitHub or email at egarrisxn@gmail.com.

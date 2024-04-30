@@ -4,7 +4,7 @@
   "type": "module",
   "description": "A basic SVG maker straight from the command line.",
   "main": "index.js",
-  "author": "Ethan Garrison",
+  "author": "Ethan G",
   "license": "MIT",
   "scripts": {
     "test": "jest"
