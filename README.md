@@ -45,4 +45,4 @@ This project is licensed under the [MIT license](https://opensource.org/licenses
 
 ## Questions
 
-Questions? Comments? Concerns? Reach out to me via GitHub or email at egarrisxn@gmail.com.
+Questions? Comments? Concerns? Reach out to me via [GitHub](https://github.com/EGARRISXN) or email at egarrisxn@gmail.com.
