@@ -1,6 +1,6 @@
 # SVG Maker
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/svg-maker)
 
 _Initially created in the sping of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
@@ -14,24 +14,17 @@ This application was made to create a SVG logo from your command line. This app 
 ![square](https://github.com/EGARRISXN/svg-maker/assets/126130230/653ee6e6-921d-4045-a358-2d6b7f32e708)
 ![triangle](https://github.com/EGARRISXN/svg-maker/assets/126130230/2c6981eb-f579-46b4-b02e-fdc1f3c6e100)
 
-## Table of Contents
-
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
-- [Questions](#questions)
-
 ## Technologies
 
-- Node.js
-- Javascript
-- Inquirer
-- Jest
+- **Inquirer**
+- **Node.js**
+- **Javascript**
+- **Babel**
+- **Jest**
 
 ## Installation
+
+_For this, I used pnpm, but you may use npm or yarn, you'll just need to make some minor adjustments._
 
 1. Clone this repository to your local machine.
 2. Select & download your package manager: [npm](https://www.npmjs.com/), [pnpm](https://pnpm.io/), or [yarn](https://yarnpkg.com/).
@@ -45,10 +38,6 @@ This application was made to create a SVG logo from your command line. This app 
 ## Tests
 
 Navigate to your terminal and run `npm test`, `pnpm test`, or `yarn test`.
-
-## Acknowledgements
-
-I had help from my peers within the bootcamp. Cheers to you all!
 
 ## License
 

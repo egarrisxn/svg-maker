@@ -10,10 +10,13 @@
     "test": "jest"
   },
   "keywords": [
-    "svg",
-    "svg-maker",
+    "inquirer",
+    "nodejs",
+    "javascript",
+    "babel",
     "jest",
-    "inquirer"
+    "svg",
+    "svg-maker"
   ],
   "dependencies": {
     "inquirer": "^9.2.19"
