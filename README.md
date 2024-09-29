@@ -1,6 +1,6 @@
 # SVG Maker
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/svg-maker)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/svg-maker) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/svg-maker)
 
 _Initially created in the sping of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
